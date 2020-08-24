@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RevisionLab</string>
+    <string name="readersid">Reader\'s Name</string>
+    <string name="name">Name</string>
+    <string name="ok">Ok</string>
+    <string name="books">Books</string>
+    <string name="paperarticle">PAPER ARTICLE</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lblTitle">lblTitle</string>
+    <string name="lblAuthor">lblAuthor</string>
+    <string name="view" >View</string>
+
+</resources>
